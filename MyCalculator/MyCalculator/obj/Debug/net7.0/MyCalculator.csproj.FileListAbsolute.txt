@@ -1,0 +1,15 @@
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\bin\Debug\net7.0\MyCalculator.exe
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\bin\Debug\net7.0\MyCalculator.deps.json
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\bin\Debug\net7.0\MyCalculator.runtimeconfig.json
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\bin\Debug\net7.0\MyCalculator.dll
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\bin\Debug\net7.0\MyCalculator.pdb
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\obj\Debug\net7.0\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\obj\Debug\net7.0\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\obj\Debug\net7.0\MyCalculator.AssemblyInfoInputs.cache
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\obj\Debug\net7.0\MyCalculator.AssemblyInfo.cs
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\obj\Debug\net7.0\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\obj\Debug\net7.0\MyCalculator.dll
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\obj\Debug\net7.0\refint\MyCalculator.dll
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\obj\Debug\net7.0\MyCalculator.pdb
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\obj\Debug\net7.0\MyCalculator.genruntimeconfig.cache
+C:\Users\fbadejo\Documents\GitHub\C~\MyCalculator\MyCalculator\obj\Debug\net7.0\ref\MyCalculator.dll
