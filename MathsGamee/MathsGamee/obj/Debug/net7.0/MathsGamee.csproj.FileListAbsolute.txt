@@ -1,0 +1,15 @@
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\bin\Debug\net7.0\MathsGamee.exe
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\bin\Debug\net7.0\MathsGamee.deps.json
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\bin\Debug\net7.0\MathsGamee.runtimeconfig.json
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\bin\Debug\net7.0\MathsGamee.dll
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\bin\Debug\net7.0\MathsGamee.pdb
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\obj\Debug\net7.0\MathsGamee.csproj.AssemblyReference.cache
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\obj\Debug\net7.0\MathsGamee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\obj\Debug\net7.0\MathsGamee.AssemblyInfoInputs.cache
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\obj\Debug\net7.0\MathsGamee.AssemblyInfo.cs
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\obj\Debug\net7.0\MathsGamee.csproj.CoreCompileInputs.cache
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\obj\Debug\net7.0\MathsGamee.dll
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\obj\Debug\net7.0\refint\MathsGamee.dll
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\obj\Debug\net7.0\MathsGamee.pdb
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\obj\Debug\net7.0\MathsGamee.genruntimeconfig.cache
+C:\Users\fbadejo\Documents\GitHub\C~\MathsGamee\MathsGamee\obj\Debug\net7.0\ref\MathsGamee.dll

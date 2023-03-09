@@ -4,14 +4,14 @@
     "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\MyCalculator\\MyCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\MyCalculator\\MyCalculator.csproj": {
+    "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\CalculatorLibrary\\CalculatorLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\MyCalculator\\MyCalculator.csproj",
-        "projectName": "MyCalculator",
-        "projectPath": "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\MyCalculator\\MyCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectName": "CalculatorLibrary",
+        "projectPath": "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "packagesPath": "C:\\Users\\fbadejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\MyCalculator\\obj\\",
+        "outputPath": "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\CalculatorLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fbadejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,66 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\MyCalculator\\MyCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\MyCalculator\\MyCalculator.csproj",
+        "projectName": "MyCalculator",
+        "projectPath": "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\MyCalculator\\MyCalculator.csproj",
+        "packagesPath": "C:\\Users\\fbadejo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\MyCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fbadejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nexus.deloitte-fdev.team/repository/nuget-group/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+                "projectPath": "C:\\Users\\fbadejo\\Documents\\GitHub\\C~\\MyCalculator\\CalculatorLibrary\\CalculatorLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
